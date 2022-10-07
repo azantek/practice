@@ -1,6 +1,6 @@
 #My Personal Webpage 
 
-#Classes I've Taken 
+##Classes I've Taken 
 I've taken a lot of classes at Lawrence University. Here's a few:
 
 - 1
